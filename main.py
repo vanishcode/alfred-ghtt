@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+#!/usr/bin/python
 # -  *  - coding:UTF-8 -  *  -
 import spider
 
