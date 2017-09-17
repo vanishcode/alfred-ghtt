@@ -1,5 +1,5 @@
 # Alfred-ghtt
-A plugin for alfred to browse posts on bbs.ghtt.net quickly.
+A plugin for alfred to browse posts on [http://bbs.ghtt.net](http://bbs.ghtt.net) quickly.
 
 ![](https://ws3.sinaimg.cn/large/006tNc79ly1fjmb6qhvtvj30gz0f9q8p.jpg)
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fjmb7ecpwbj30gz0f9n19.jpg)
@@ -12,3 +12,7 @@ Some useful guide:
 * [Alfred workflow 开发指南](http://myg0u.com/python/2015/05/23/tutorial-alfred-workflow.html)
 
 And you can also get some useful info in my blog......(comming soon...)
+
+TODO
+* reply
+* PT
